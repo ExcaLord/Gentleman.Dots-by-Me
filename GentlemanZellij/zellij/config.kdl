@@ -368,7 +368,7 @@ themes {
     }
 }
 
-theme "oldWorld"
+theme "sakura"
 
 // Choose the base input mode of zellij.
 // Default: normal
@@ -387,7 +387,7 @@ default_mode "locked"
 // The name of the default layout to load on startup
 // Default: "work_oldWorld"
 // 
-default_layout "work_oldWorld"
+default_layout "work_sakura"
  
 // The folder in which Zellij will look for layouts
 // (Requires restart)
