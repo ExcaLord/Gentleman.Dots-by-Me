@@ -24,7 +24,7 @@ add_newline = true
 command_timeout = 3600000
 
 # color and style settings
-palette = "sakura"
+palette = "sakura-vibrant"
 
 [fill]
 symbol = ' '
@@ -38,14 +38,23 @@ symbol = ' '
 # text_color = "#c5a3a9" # na: text
 # text_light = "#1c1a1c" # bl: background
 
-[palettes.oldWorld]
-arrow = "#EA83A5"      # ia: intense pink
-os = "#85B5BA"         # va: light blue-green
-directory = "#92A2D5"  # ca: blue lavender
-git = "#EA83A5"        # ia: intense pink
-duration = "#92A2D5"   # ca: blue lavender
-text_color = "#C9C7CD" # na: light gray
-text_light = "#000000" # bl: dark gray
+[palettes.sakura-vibrant]
+arrow = "#e57373"      # Rosa coral (más vibrante)
+os = "#7986cb"         # Azul lavanda (más suave)
+directory = "#ba68c8"  # Morado orquídea (más cálido)
+git = "#f06292"        # Rosa intenso (para destacar Git)
+duration = "#9575cd"   # Morado pastel (armonioso)
+text_color = "#f8bbd0" # Rosa claro (para texto principal)
+text_light = "#2e2c2e" # Gris oscuro (mejor contraste para fondo)
+
+# [palettes.oldWorld]
+# arrow = "#EA83A5"      # ia: intense pink
+# os = "#85B5BA"         # va: light blue-green
+# directory = "#92A2D5"  # ca: blue lavender
+# git = "#EA83A5"        # ia: intense pink
+# duration = "#92A2D5"   # ca: blue lavender
+# text_color = "#C9C7CD" # na: light gray
+# text_light = "#000000" # bl: dark gray
 
 # Pink mustache icon for the prompt
 [character]
