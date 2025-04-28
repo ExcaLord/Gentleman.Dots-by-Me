@@ -1,6 +1,7 @@
-# Gentleman.Dots
+# Gentleman.Dots By ExcaLord
 
-![Screenshot 2025-02-07 102533](https://github.com/user-attachments/assets/3f6c4f62-23d7-41d7-b7b1-42c7e0c32336)
+<img width="2168" alt="nvim config" src="https://github.com/user-attachments/assets/5dbea3cb-32d1-43d6-abe4-f476fd95365c" />
+
 
 ## Description
 
