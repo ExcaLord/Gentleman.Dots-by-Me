@@ -2,7 +2,15 @@
 
 <img width="2168" alt="nvim config" src="https://github.com/user-attachments/assets/5dbea3cb-32d1-43d6-abe4-f476fd95365c" />
 
-
+## My Settings
+all my settings already are updated on each document
+- Modify the default colorshecheme to TokyoDark
+- Modify the ASCII art to Orion one
+- Modify the zellij colors to sakura one's
+- Terminal that i'm using is Ghostty
+- Nushell
+- Zellij
+- Neovim
 ## Description
 
 This repository contains customized configurations for a complete development environment, including:
