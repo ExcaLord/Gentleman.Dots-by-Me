@@ -14,9 +14,9 @@ set -x PATH $HOME/.volta/bin $HOME/.bun/bin $HOME/.nix-profile/bin /nix/var/nix/
 
 eval ($BREW_BIN shellenv)
 
-if not set -q TMUX
-    tmux
-end
+# if not set -q TMUX
+#     tmux
+# end
 
 #if not set -q ZELLIJ 
 #  zellij
@@ -55,6 +55,8 @@ end
 
 alias fzfbat='fzf --preview="bat --theme=gruvbox-dark --color=always {}"'
 alias fzfnvim='nvim (fzf --preview="bat --theme=gruvbox-dark --color=always {}")'
+alias c='clear'
+alias v='nvim'
 
 ## everforest
 #set -l foreground d3c6aa
